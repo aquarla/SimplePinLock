@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimplePinLock</string>
+    <string name="cancel">キャンセル</string>
+    <string name="simplepinlock_request_pin">パスコードを入力してください</string>
+    <string name="simplepinlock_enter_pin1">新しいパスコードを\n入力してください</string>
+    <string name="simplepinlock_enter_pin2">新しいパスコードを\nもう一度入力してください</string>
+    <string name="simplepinlock_invalid_pin">パスコードが不正です。\nもう一度入力してください</string>
+    <string name="simplepinlock_pin_mismatch">パスコードが一致しません。\nもう一度入力してください</string>
+</resources>

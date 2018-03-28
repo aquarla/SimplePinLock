@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimplePinLock</string>
+    <string name="cancel">cancel</string>
+    <string name="simplepinlock_request_pin">Enter PIN</string>
+    <string name="simplepinlock_enter_pin1">Enter new PIN</string>
+    <string name="simplepinlock_enter_pin2">Re enter PIN</string>
+    <string name="simplepinlock_invalid_pin">Invalid PIN. Try again</string>
+    <string name="simplepinlock_pin_mismatch">PIN mismatch. Try again</string>
+</resources>
